@@ -10,9 +10,6 @@
         android:name="android.hardware.sensor.accelerometer"
         android:required="false" />
 
-    <uses-permission
-        android:name="android.permission.BATTERY_STATS" />
-
     <application
         android:allowBackup="false"
         android:label="Liquid Battery"
